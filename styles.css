@@ -1,18 +1,18 @@
 /* Kyle McCool portfolio
-   Makko brand palette: deep navy + Makko blue. System fonts for fast load. */
+   Personal palette: refined dark + warm amber. System fonts for fast load. */
 
 :root {
-  --bg: #080e1a;
-  --surface: #0e1626;
-  --surface-2: #152338;
-  --border: #1f2d44;
-  --border-soft: #1a2336;
-  --text: #ffffff;
-  --text-dim: #c9d4e8;
-  --text-mute: #7e8aa0;
-  --accent: #3b8edf;
-  --accent-hover: #5aa3ec;
-  --accent-soft: rgba(59, 142, 223, 0.14);
+  --bg: #0a0a0a;
+  --surface: #151515;
+  --surface-2: #1f1f1f;
+  --border: #2a2a2a;
+  --border-soft: #232323;
+  --text: #fafafa;
+  --text-dim: #a3a3a3;
+  --text-mute: #737373;
+  --accent: #f59e0b;
+  --accent-hover: #fbbf24;
+  --accent-soft: rgba(245, 158, 11, 0.14);
   --radius: 14px;
   --max: 1100px;
 }
@@ -58,7 +58,7 @@ h1, h2, h3, h4 { color: var(--text); }
   justify-content: space-between;
   align-items: center;
   padding: 16px 32px;
-  background: rgba(8, 14, 26, 0.85);
+  background: rgba(10, 10, 10, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
@@ -86,8 +86,8 @@ h1, h2, h3, h4 { color: var(--text); }
   padding: 120px 0 96px;
   border-bottom: 1px solid var(--border);
   background:
-    radial-gradient(ellipse at top left, rgba(59, 142, 223, 0.08) 0%, transparent 50%),
-    radial-gradient(ellipse at bottom right, rgba(59, 142, 223, 0.04) 0%, transparent 50%);
+    radial-gradient(ellipse at top left, rgba(245, 158, 11, 0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom right, rgba(245, 158, 11, 0.03) 0%, transparent 50%);
 }
 
 .hero-eyebrow {
@@ -99,7 +99,7 @@ h1, h2, h3, h4 { color: var(--text); }
   margin-bottom: 24px;
   padding: 6px 14px;
   background: var(--accent-soft);
-  border: 1px solid rgba(59, 142, 223, 0.3);
+  border: 1px solid rgba(245, 158, 11, 0.3);
   border-radius: 999px;
   font-weight: 500;
 }
@@ -177,7 +177,7 @@ h1, h2, h3, h4 { color: var(--text); }
 
 .meta-pill-strong {
   color: var(--accent);
-  border-color: rgba(59, 142, 223, 0.5);
+  border-color: rgba(245, 158, 11, 0.5);
   background: var(--accent-soft);
   font-weight: 500;
 }
