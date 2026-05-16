@@ -175,6 +175,13 @@ h1, h2, h3, h4 { color: var(--text); }
   background: var(--surface);
 }
 
+.meta-pill-strong {
+  color: var(--accent);
+  border-color: rgba(59, 142, 223, 0.5);
+  background: var(--accent-soft);
+  font-weight: 500;
+}
+
 /* ---------- Sections ---------- */
 .section {
   padding: 96px 0;
