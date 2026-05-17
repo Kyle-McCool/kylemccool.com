@@ -11,3 +11,4 @@ User-agent: PerplexityBot
 Allow: /
 
 Sitemap: https://kylemccool.com/sitemap.xml
+Sitemap: https://kylemccool.com/feed.xml

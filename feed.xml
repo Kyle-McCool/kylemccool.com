@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle McCool</title>
+    <link>https://kylemccool.com/</link>
+    <atom:link href="https://kylemccool.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Personal site of Kyle McCool, Co-Founder and Director of Operations at Makko AI. Co-founder of Phantomline and ProLocalBuilder. Based in Appleton, Wisconsin.</description>
+    <language>en-us</language>
+    <managingEditor>kyle@makko.ai (Kyle McCool)</managingEditor>
+    <webMaster>kyle@makko.ai (Kyle McCool)</webMaster>
+    <image>
+      <url>https://kylemccool.com/og-image.jpg</url>
+      <title>Kyle McCool</title>
+      <link>https://kylemccool.com/</link>
+    </image>
+
+    <item>
+      <title>Kyle McCool, Co-Founder and Director of Operations at Makko AI</title>
+      <link>https://kylemccool.com/</link>
+      <guid isPermaLink="true">https://kylemccool.com/</guid>
+      <description>Co-Founder and Director of Operations at Makko AI, an AI-powered 2D game studio SaaS. Built the early prototype with Tony Valcarcel. Built most of Phantomline and ProLocalBuilder. Contributed to the largest NFT mint in OpenSea history at 220,000 assets during four years at Moonray PBC. Technical SEO, AEO, AI workflows. Based in Appleton, Wisconsin.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Makko AI, Kyle McCool's role as Co-Founder and Director of Operations</title>
+      <link>https://kylemccool.com/work/makko-ai</link>
+      <guid isPermaLink="true">https://kylemccool.com/work/makko-ai</guid>
+      <description>Kyle McCool's deep page on his work at Makko AI. SEO and AEO Master Playbook, AI citations strategy, Product Hunt launch leadership, backlink profile, and the original prototype built with Tony Valcarcel.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Phantomline, the local-first AI video studio Kyle McCool built with Cesar Martinez and Zac Dillard</title>
+      <link>https://kylemccool.com/work/phantomline</link>
+      <guid isPermaLink="true">https://kylemccool.com/work/phantomline</guid>
+      <description>Kyle McCool wrote most of Phantomline, a local-first AI video studio for faceless YouTube creators. Flask backend with Ollama, Kokoro TTS, MusicGen, and ffmpeg. Co-founded with Cesar Martinez and Zac Dillard.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>ProLocalBuilder, the flat-fee web design platform Kyle McCool built with Cesar Martinez and Zac Dillard</title>
+      <link>https://kylemccool.com/work/prolocalbuilder</link>
+      <guid isPermaLink="true">https://kylemccool.com/work/prolocalbuilder</guid>
+      <description>Kyle McCool wrote most of ProLocalBuilder, a flat-fee web design platform for local service businesses. One builder per metro: Kyle runs Fox Valley WI, Cesar runs the San Francisco Bay Area, Zac runs Las Vegas.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Moonray PBC, Kyle McCool's Web3 marketing work (2021 to 2025)</title>
+      <link>https://kylemccool.com/work/moonray</link>
+      <guid isPermaLink="true">https://kylemccool.com/work/moonray</guid>
+      <description>Kyle McCool spent four years at Moonray PBC as Marketing Manager, scaling community to 170,000+ followers and contributing to the largest NFT mint in OpenSea history at 220,000 assets.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Writing by Kyle McCool</title>
+      <link>https://kylemccool.com/writing</link>
+      <guid isPermaLink="true">https://kylemccool.com/writing</guid>
+      <description>Essays by Kyle McCool on AI tooling, SEO at low domain rating, Web3 marketing lessons, and founder-operator work. Published on Medium with selective cross-posts to Dev.to and Hashnode.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Contact Kyle McCool</title>
+      <link>https://kylemccool.com/contact</link>
+      <guid isPermaLink="true">https://kylemccool.com/contact</guid>
+      <description>Contact Kyle McCool, Co-Founder and Director of Operations at Makko AI. Email kyle@makko.ai or find him on LinkedIn, Twitter, GitHub, Product Hunt, Wellfound, Crunchbase, or Medium.</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
