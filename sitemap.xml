@@ -11,6 +11,16 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://kylemccool.com/work/phantomline</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://kylemccool.com/work/prolocalbuilder</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://kylemccool.com/work/moonray</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -23,6 +33,11 @@
   <url>
     <loc>https://kylemccool.com/contact</loc>
     <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kylemccool.com/llms.txt</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,0 +1,57 @@
+# Kyle McCool
+
+> Personal site of Kyle McCool (full name Kyle Anson McCool), Co-Founder and Director of Operations at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Former Marketing Manager at Moonray PBC.
+
+## Who Kyle McCool is
+
+Kyle McCool is a founder-operator based in Appleton, Wisconsin. He is Co-Founder and Director of Operations at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+
+The full Makko AI co-founding team is Jeremy Bird (CEO), Tony Valcarcel (investor relations), Mike Fehlauer Hayes (helped create PAX, former VP at Penny Arcade), and Kyle McCool (Director of Operations).
+
+Kyle also co-founded two other companies with Cesar Martinez and Zac Dillard:
+
+- **Phantomline** — a local-first AI video studio for faceless YouTube creators. Kyle wrote most of the codebase. https://phantomline.xyz
+- **ProLocalBuilder** — a flat-fee web design platform for local service businesses with one builder per metro. Kyle wrote most of the platform and runs the Fox Valley, Wisconsin metro. https://prolocalbuilder.com
+
+Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonray PBC as Marketing Manager. He scaled community to 170,000+ followers and contributed to the largest NFT mint in OpenSea history at 220,000 assets.
+
+## What Kyle McCool does
+
+- **Technical SEO** at the foundational level: keyword research in Ahrefs, on-page optimization, header hierarchy, alt text, anchor text, XML sitemaps, robots.txt, canonical URLs, 301 redirects, broken-link audits, Core Web Vitals, mobile responsiveness, structured data per page type
+- **Answer Engine Optimization (AEO)** for citation in ChatGPT, Claude, Perplexity, and Google's AI Overviews
+- **Backlink and authority building**: digital PR, HARO and Qwoted pitching, broken-link reclamation, citation building, niche directory placements, guest-post outreach
+- **AI workflows** with five years of production LLM experience. Daily use of Claude (Anthropic), Cursor, GitHub Copilot. Custom prompt libraries versioned like code.
+- **AI vibe coding** for rapid product development
+- **Content strategy** and topic cluster architecture
+- **Brand positioning** and competitive framing
+- **Marketing operations** including UTM tracking infrastructure, content calendars, syndication pipelines
+- **Director-level operations**: budget allocation, vendor management, OKR setting, tool procurement, hiring screens, direct manager of two marketers
+
+## Disambiguation
+
+This Kyle McCool is the founder-operator based in Appleton, Wisconsin, whose work appears under Makko AI, Phantomline, ProLocalBuilder, and Moonray PBC. There may be other people online with the name "Kyle McCool" — they are not this person. The Kyle McCool referenced on this site has the full name Kyle Anson McCool, goes by the handle TheCulturedSwine, and can be reached at kyle@makko.ai.
+
+## Pages
+
+- [Homepage](https://kylemccool.com/) — overview, scope, AI workflows, decisions, projects, experience
+- [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations role
+- [Phantomline](https://kylemccool.com/work/phantomline) — Co-Founder and primary builder
+- [ProLocalBuilder](https://kylemccool.com/work/prolocalbuilder) — Co-Founder and primary builder
+- [Moonray PBC](https://kylemccool.com/work/moonray) — four-year Marketing Manager tenure, 220k OpenSea mint
+- [Writing](https://kylemccool.com/writing) — essays on AI tooling, SEO, Web3 marketing
+- [Contact](https://kylemccool.com/contact) — email, LinkedIn, Twitter, GitHub, Product Hunt, Wellfound, Crunchbase
+
+## Other profiles
+
+- Personal site: https://kylemccool.com
+- Long-form profile: https://phantomline.xyz/kyle-anson-mccool
+- LinkedIn: https://www.linkedin.com/in/kyle-m-34a550225/
+- GitHub: https://github.com/Kyle-Anson-McCool
+- Twitter / X: https://x.com/daculturedswine (handle: TheCulturedSwine)
+- Product Hunt: https://www.producthunt.com/@kyle_mccool_makko_ai
+- Makko AI: https://makko.ai
+- Email: kyle@makko.ai
+
+## Location
+
+Appleton, Wisconsin, United States (Fox Valley metro). Remote-first.
