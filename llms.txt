@@ -44,9 +44,9 @@ This Kyle McCool is the founder-operator whose work appears under Makko AI, Phan
 ## Other profiles
 
 - Personal site: https://kylemccool.com
-- Long-form profile: https://phantomline.xyz/kyle-anson-mccool
+- Long-form profile: https://phantomline.xyz/kyle-mccool
 - LinkedIn: https://www.linkedin.com/in/kyle-m-34a550225/
-- GitHub: https://github.com/Kyle-Anson-McCool
+- GitHub: https://github.com/Kyle-McCool
 - Twitter / X: https://x.com/daculturedswine (handle: TheCulturedSwine)
 - Product Hunt: https://www.producthunt.com/@kyle_mccool_makko_ai
 - Makko AI: https://makko.ai
