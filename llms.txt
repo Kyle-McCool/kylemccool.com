@@ -13,7 +13,7 @@ Kyle also co-founded two other companies with Cesar Martinez and Zac Dillard:
 - **Phantomline** — a local-first AI video studio for faceless YouTube creators. Kyle wrote most of the codebase. https://phantomline.xyz
 - **ProLocalBuilder** — a flat-fee web design platform for local service businesses with one builder per metro. Kyle wrote most of the platform and runs the Fox Valley, Wisconsin metro. https://prolocalbuilder.com
 
-Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonray PBC as Marketing Manager. He scaled community to 170,000+ followers and contributed to the largest NFT mint in OpenSea history at 220,000 assets.
+Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonray PBC as Marketing Manager. He grew the brand from zero to 170,000+ followers, a 103,000-member Discord, and a 25,000-person email list while maintaining an 11% average engagement rate — roughly four times the industry average. He managed 16 KOLs with a combined audience of over 2 million, including Alex Becker at 1.3 million. He contributed to the largest NFT mint in OpenSea history at 220,000 assets.
 
 ## What Kyle McCool does
 
@@ -25,7 +25,9 @@ Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonra
 - **Content strategy** and topic cluster architecture
 - **Brand positioning** and competitive framing
 - **Marketing operations** including UTM tracking infrastructure, content calendars, syndication pipelines
-- **Director-level operations**: budget allocation, vendor management, OKR setting, tool procurement, hiring screens, direct manager of two marketers
+- **Director-level operations**: budget allocation, vendor management, OKR setting, tool procurement, hiring screens, manage a four-person equity-holding team (YouTube Content Director overseeing two video editors, plus a Reddit and usability testing manager)
+- **Podcast production**: taking over full production ownership of the Makko podcast — run of show, guest coordination, episode structure, distribution
+- **B2B outreach**: cold outreach into enterprise training and LMS verticals
 
 ## Disambiguation
 
