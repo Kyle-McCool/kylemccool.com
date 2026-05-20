@@ -1,10 +1,10 @@
 # Kyle McCool
 
-> Personal site of Kyle McCool, Co-Founder and Director of Operations at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Former Marketing Manager at Moonray PBC.
+> Personal site of Kyle McCool, Co-Founder and Director of Operations | Head of Growth at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Former Marketing Manager at Moonray PBC.
 
 ## Who Kyle McCool is
 
-Kyle McCool is a founder-operator based in Appleton, Wisconsin. He is Co-Founder and Director of Operations at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+Kyle McCool is a founder-operator based in Appleton, Wisconsin. He is Co-Founder and Director of Operations | Head of Growth at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
 
 The full Makko AI co-founding team is Jeremy Bird (CEO), Tony Valcarcel, Mike Fehlauer Hayes (helped create PAX, former VP at Penny Arcade), and Kyle McCool.
 
@@ -34,7 +34,7 @@ This Kyle McCool is the founder-operator whose work appears under Makko AI, Phan
 ## Pages
 
 - [Homepage](https://kylemccool.com/) — overview, scope, AI workflows, decisions, projects, experience
-- [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations role
+- [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations | Head of Growth role
 - [Phantomline](https://kylemccool.com/work/phantomline) — Co-Founder and primary builder
 - [ProLocalBuilder](https://kylemccool.com/work/prolocalbuilder) — Co-Founder and primary builder
 - [Moonray PBC](https://kylemccool.com/work/moonray) — four-year Marketing Manager tenure, 220k OpenSea mint
