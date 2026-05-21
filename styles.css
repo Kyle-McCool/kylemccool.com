@@ -1139,3 +1139,81 @@ body { counter-reset: sec; }
   }
   .reveal { opacity: 1; transform: none; }
 }
+
+/* Case study / receipts section — used on work pages to embed real screenshots
+   from Ahrefs, GSC, Bing Webmaster, YouTube Studio, PostHog, etc. */
+.case-study-block { margin-top: 56px; }
+.case-study-block:first-of-type { margin-top: 32px; }
+
+.case-study-block h3 {
+  font-family: var(--serif-display);
+  font-weight: 400;
+  font-size: 1.55rem;
+  line-height: 1.2;
+  color: var(--ink);
+  margin: 0 0 6px;
+  letter-spacing: -0.015em;
+}
+
+.case-study-kicker {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 14px;
+}
+
+.case-study-lead {
+  font-family: var(--serif-body);
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--ink-2);
+  max-width: 68ch;
+  margin: 0 0 20px;
+}
+
+.case-study-figure {
+  margin: 16px 0 8px;
+  padding: 14px;
+  background: var(--paper-2);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+}
+
+.case-study-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+.case-study-figcaption {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+  margin: 12px 2px 0;
+  line-height: 1.5;
+}
+
+.case-study-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.case-study-item .case-study-figure { margin-top: 0; }
+.case-study-item p {
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--ink-2);
+  margin: 14px 0 0;
+}
+.case-study-item p strong { color: var(--ink); }
+
+@media (max-width: 720px) {
+  .case-study-grid { grid-template-columns: 1fr; }
+  .case-study-block { margin-top: 40px; }
+}
