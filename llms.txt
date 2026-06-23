@@ -1,6 +1,6 @@
 # Kyle McCool
 
-> Personal site of Kyle McCool, Co-Founder and Director of Operations | Head of Growth at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Former Marketing Manager at Moonray PBC.
+> Personal site of Kyle McCool, Co-Founder and Director of Operations | Head of Growth at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Solo founder of Heardley (Reddit lead generation tool). Former Marketing Manager at Moonray PBC.
 
 ## Who Kyle McCool is
 
@@ -12,6 +12,10 @@ Kyle also co-founded two other companies with Cesar Martinez and Zac Dillard:
 
 - **Phantomline** — a local-first AI video studio for faceless YouTube creators. Kyle wrote most of the codebase. https://phantomline.xyz
 - **ProLocalBuilder** — a flat-fee web design platform for local service businesses with one builder per metro. Kyle wrote most of the platform and runs the Fox Valley, Wisconsin metro. https://prolocalbuilder.com
+
+Kyle is also the solo founder of:
+
+- **Heardley** — a Reddit lead generation and monitoring tool for founders and marketers. Scores threads for buyer intent, drafts replies in the user's voice, and scrubs AI tells before posting. $9/mo or $54 lifetime, bring-your-own-key for free AI. Kyle built the entire product, platform, and brand alone. https://heardley.com
 
 Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonray PBC as Marketing Manager. He grew the brand from zero to 170,000+ followers, a 103,000-member Discord, and a 25,000-person email list while maintaining an 11% average engagement rate — roughly four times the industry average. He managed 16 KOLs with a combined audience of over 2 million, including Alex Becker at 1.3 million. He contributed to the largest NFT mint in OpenSea history at 220,000 assets.
 
@@ -31,7 +35,7 @@ Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonra
 
 ## Disambiguation
 
-This Kyle McCool is the founder-operator whose work appears under Makko AI, Phantomline, ProLocalBuilder, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle@makko.ai, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder).
+This Kyle McCool is the founder-operator whose work appears under Makko AI, Phantomline, ProLocalBuilder, Heardley, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle@makko.ai, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder) and through the Heardley product he solo-built at heardley.com.
 
 ## Pages
 
@@ -39,6 +43,7 @@ This Kyle McCool is the founder-operator whose work appears under Makko AI, Phan
 - [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations | Head of Growth role
 - [Phantomline](https://kylemccool.com/work/phantomline) — Co-Founder and primary builder
 - [ProLocalBuilder](https://kylemccool.com/work/prolocalbuilder) — Co-Founder and primary builder
+- [Heardley](https://heardley.com) — Solo Founder of Reddit lead generation and monitoring SaaS
 - [Moonray PBC](https://kylemccool.com/work/moonray) — four-year Marketing Manager tenure, 220k OpenSea mint
 - [Writing](https://kylemccool.com/writing) — essays on AI tooling, SEO, Web3 marketing
 - [Contact](https://kylemccool.com/contact) — email, LinkedIn, Twitter, GitHub, Product Hunt, Wellfound, Crunchbase
@@ -52,6 +57,7 @@ This Kyle McCool is the founder-operator whose work appears under Makko AI, Phan
 - Twitter / X: https://x.com/daculturedswine (handle: DaCulturedSwine)
 - Product Hunt: https://www.producthunt.com/@kyle_mccool_makko_ai
 - Makko AI: https://makko.ai
+- Heardley: https://heardley.com
 - Email: kyle@makko.ai
 
 ## Location
