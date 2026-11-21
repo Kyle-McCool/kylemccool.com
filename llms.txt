@@ -4,9 +4,9 @@
 
 ## Who Kyle McCool is
 
-Kyle McCool is an AI builder and founder-operator based in Appleton, Wisconsin. Since July 2026 he has been an AI Enablement Specialist at Heartland Business Systems (HBS, https://www.hbs.net), where he builds AI agents, contributes to the company's internal AI platform, and handles AI intake requests across the business.
+Kyle McCool is an AI builder and founder-operator based in Appleton, Wisconsin. Since July 2026 he has been an AI Enablement Specialist at Heartland Business Systems (HBS, https://www.hbs.net), where he builds Microsoft Copilot Studio agents (HBS Assist for IT intake, a Licensing Advisor knowledge agent, the HBS Navigator routing agent, and a seller feedback tracker), helps build and roll out HBS Cowork (the company's own AI workspace), and handles AI intake requests across the business. Microsoft Certified: Azure AI Fundamentals.
 
-He is also Co-Founder and Director of Operations | Head of Growth at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+From June 2025 to August 2026 he was Co-Founder and Director of Operations | Head of Growth at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
 
 The full Makko AI co-founding team is Jeremy Bird (CEO), Tony Valcarcel, Mike Fehlauer Hayes (helped create PAX, former VP at Penny Arcade), and Kyle McCool.
 
@@ -43,8 +43,8 @@ This Kyle McCool is the AI builder and founder-operator whose work appears under
 ## Pages
 
 - [Homepage](https://kylemccool.com/) — overview, scope, AI workflows, decisions, projects, experience
-- [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations | Head of Growth role
-- Heartland Business Systems (https://www.hbs.net) — AI Enablement Specialist since July 2026 (see homepage CV)
+- [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations | Head of Growth, 2025 to 2026
+- [Heartland Business Systems](https://kylemccool.com/work/hbs) — AI Enablement Specialist since July 2026: Copilot Studio agents and HBS Cowork
 - [Phantomline](https://kylemccool.com/work/phantomline) — Co-Founder and primary builder
 - [ProLocalBuilder](https://kylemccool.com/work/prolocalbuilder) — Co-Founder and primary builder
 - [Heardley](https://heardley.com) — Solo Founder of Reddit lead generation and monitoring SaaS
