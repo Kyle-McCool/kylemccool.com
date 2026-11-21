@@ -38,12 +38,13 @@ Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonra
 
 ## Disambiguation
 
-This Kyle McCool is the AI builder and founder-operator whose work appears under Heartland Business Systems (AI Enablement), Makko AI, Phantomline, ProLocalBuilder, Heardley, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle@makko.ai, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder) and through the Heardley product he solo-built at heardley.com.
+This Kyle McCool is the AI builder and founder-operator whose work appears under Heartland Business Systems (AI Enablement), Makko AI, Phantomline, ProLocalBuilder, Heardley, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle.mc.marketing@gmail.com, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder) and through the Heardley product he solo-built at heardley.com.
 
 ## Pages
 
 - [Homepage](https://kylemccool.com/) — overview, scope, AI workflows, decisions, projects, experience
 - [Makko AI](https://kylemccool.com/work/makko-ai) — Co-Founder and Director of Operations | Head of Growth role
+- Heartland Business Systems (https://www.hbs.net) — AI Enablement Specialist since July 2026 (see homepage CV)
 - [Phantomline](https://kylemccool.com/work/phantomline) — Co-Founder and primary builder
 - [ProLocalBuilder](https://kylemccool.com/work/prolocalbuilder) — Co-Founder and primary builder
 - [Heardley](https://heardley.com) — Solo Founder of Reddit lead generation and monitoring SaaS
@@ -61,7 +62,7 @@ This Kyle McCool is the AI builder and founder-operator whose work appears under
 - Product Hunt: https://www.producthunt.com/@kyle_mccool_makko_ai
 - Makko AI: https://makko.ai
 - Heardley: https://heardley.com
-- Email: kyle@makko.ai
+- Email: kyle.mc.marketing@gmail.com
 
 ## Location
 
