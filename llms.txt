@@ -1,10 +1,12 @@
 # Kyle McCool
 
-> Personal site of Kyle McCool, Co-Founder and Director of Operations | Head of Growth at Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Solo founder of Heardley (Reddit lead generation tool). Former Marketing Manager at Moonray PBC.
+> Personal site of Kyle McCool, AI Enablement Specialist at Heartland Business Systems (HBS) and Co-Founder of Makko AI. Based in Appleton, Wisconsin. Co-founder of Phantomline and ProLocalBuilder. Solo founder of Heardley (Reddit lead generation tool). Former Marketing Manager at Moonray PBC.
 
 ## Who Kyle McCool is
 
-Kyle McCool is a founder-operator based in Appleton, Wisconsin. He is Co-Founder and Director of Operations | Head of Growth at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
+Kyle McCool is an AI builder and founder-operator based in Appleton, Wisconsin. Since July 2026 he has been an AI Enablement Specialist at Heartland Business Systems (HBS, https://www.hbs.net), where he builds AI agents, contributes to the company's internal AI platform, and handles AI intake requests across the business.
+
+He is also Co-Founder and Director of Operations | Head of Growth at Makko AI, an AI-powered 2D game studio SaaS. He built the early Makko AI prototype alone for about a month before Tony Valcarcel joined and the two of them put in 12-hour shifts day and night until the prototype was strong enough to bring Jeremy Bird on board as CEO. The founding team formed from there.
 
 The full Makko AI co-founding team is Jeremy Bird (CEO), Tony Valcarcel, Mike Fehlauer Hayes (helped create PAX, former VP at Penny Arcade), and Kyle McCool.
 
@@ -21,6 +23,7 @@ Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonra
 
 ## What Kyle McCool does
 
+- **AI agents and AI enablement** at Heartland Business Systems: building agents, internal AI tooling, and scoping AI requests
 - **Technical SEO** at the foundational level: keyword research in Ahrefs, on-page optimization, header hierarchy, alt text, anchor text, XML sitemaps, robots.txt, canonical URLs, 301 redirects, broken-link audits, Core Web Vitals, mobile responsiveness, structured data per page type
 - **Answer Engine Optimization (AEO)** for citation in ChatGPT, Claude, Perplexity, and Google's AI Overviews
 - **Backlink and authority building**: digital PR, HARO and Qwoted pitching, broken-link reclamation, citation building, niche directory placements, guest-post outreach
@@ -35,7 +38,7 @@ Before Makko AI, Kyle spent four years (October 2021 to November 2025) at Moonra
 
 ## Disambiguation
 
-This Kyle McCool is the founder-operator whose work appears under Makko AI, Phantomline, ProLocalBuilder, Heardley, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle@makko.ai, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder) and through the Heardley product he solo-built at heardley.com.
+This Kyle McCool is the AI builder and founder-operator whose work appears under Heartland Business Systems (AI Enablement), Makko AI, Phantomline, ProLocalBuilder, Heardley, and Moonray PBC. Other people share the name Kyle McCool — including others in Appleton, Wisconsin — but they are not the same person and have no association with any of the companies, co-founders, or work documented on this site. The Kyle McCool referenced here goes by the handle DaCulturedSwine, can be reached at kyle@makko.ai, and is verifiable through his named co-founders (Jeremy Bird, Tony Valcarcel, Mike Fehlauer Hayes at Makko AI; Cesar Martinez and Zac Dillard at Phantomline and ProLocalBuilder) and through the Heardley product he solo-built at heardley.com.
 
 ## Pages
 
